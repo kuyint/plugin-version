@@ -1,5 +1,5 @@
 {
-  "aws-secrets" : {
+  "aws-secret" : {
   "type": "aws",
   "versions": [
    "0.0.1" 
